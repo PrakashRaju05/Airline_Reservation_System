@@ -1,0 +1,122 @@
+[
+  {
+    "id": "AI101",
+    "flightNumber": "AI101",
+    "airline": "Air India",
+    "origin": "DEL",
+    "destination": "MUM",
+    "departureTime": "2024-03-15T06:00:00",
+    "arrivalTime": "2024-03-15T08:30:00",
+    "price": 4500,
+    "availableSeats": 150,
+    "aircraft": "Boeing 737"
+  },
+  {
+    "id": "AI102",
+    "flightNumber": "AI102",
+    "airline": "Air India",
+    "origin": "MUM",
+    "destination": "DEL",
+    "departureTime": "2024-03-15T10:00:00",
+    "arrivalTime": "2024-03-15T12:30:00",
+    "price": 4800,
+    "availableSeats": 120,
+    "aircraft": "Airbus A320"
+  },
+  {
+    "id": "6E201",
+    "flightNumber": "6E201",
+    "airline": "IndiGo",
+    "origin": "DEL",
+    "destination": "BLR",
+    "departureTime": "2024-03-15T07:30:00",
+    "arrivalTime": "2024-03-15T10:15:00",
+    "price": 5200,
+    "availableSeats": 180,
+    "aircraft": "Airbus A320"
+  },
+  {
+    "id": "6E202",
+    "flightNumber": "6E202",
+    "airline": "IndiGo",
+    "origin": "BLR",
+    "destination": "DEL",
+    "departureTime": "2024-03-15T11:00:00",
+    "arrivalTime": "2024-03-15T13:45:00",
+    "price": 5400,
+    "availableSeats": 160,
+    "aircraft": "Airbus A320"
+  },
+  {
+    "id": "SG301",
+    "flightNumber": "SG301",
+    "airline": "SpiceJet",
+    "origin": "MUM",
+    "destination": "BLR",
+    "departureTime": "2024-03-15T08:00:00",
+    "arrivalTime": "2024-03-15T09:45:00",
+    "price": 3800,
+    "availableSeats": 140,
+    "aircraft": "Boeing 737"
+  },
+  {
+    "id": "SG302",
+    "flightNumber": "SG302",
+    "airline": "SpiceJet",
+    "origin": "BLR",
+    "destination": "MUM",
+    "departureTime": "2024-03-15T12:30:00",
+    "arrivalTime": "2024-03-15T14:15:00",
+    "price": 4000,
+    "availableSeats": 130,
+    "aircraft": "Boeing 737"
+  },
+  {
+    "id": "UK401",
+    "flightNumber": "UK401",
+    "airline": "Vistara",
+    "origin": "DEL",
+    "destination": "MAA",
+    "departureTime": "2024-03-15T09:00:00",
+    "arrivalTime": "2024-03-15T11:30:00",
+    "price": 5800,
+    "availableSeats": 110,
+    "aircraft": "Airbus A320"
+  },
+  {
+    "id": "UK402",
+    "flightNumber": "UK402",
+    "airline": "Vistara",
+    "origin": "MAA",
+    "destination": "DEL",
+    "departureTime": "2024-03-15T13:00:00",
+    "arrivalTime": "2024-03-15T15:30:00",
+    "price": 6000,
+    "availableSeats": 100,
+    "aircraft": "Airbus A320"
+  },
+  {
+    "id": "AI103",
+    "flightNumber": "AI103",
+    "airline": "Air India",
+    "origin": "DEL",
+    "destination": "CCU",
+    "departureTime": "2024-03-15T06:30:00",
+    "arrivalTime": "2024-03-15T08:45:00",
+    "price": 4200,
+    "availableSeats": 90,
+    "aircraft": "Boeing 737"
+  },
+  {
+    "id": "6E203",
+    "flightNumber": "6E203",
+    "airline": "IndiGo",
+    "origin": "MUM",
+    "destination": "HYD",
+    "departureTime": "2024-03-15T07:00:00",
+    "arrivalTime": "2024-03-15T08:30:00",
+    "price": 3200,
+    "availableSeats": 200,
+    "aircraft": "Airbus A320"
+  }
+]

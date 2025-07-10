@@ -1,0 +1,30 @@
+[
+  {
+    "id": "RES1752093343347",
+    "flight": {
+      "id": "SG302",
+      "flightNumber": "SG302",
+      "airline": "SpiceJet",
+      "origin": "BLR",
+      "destination": "MUM",
+      "departureTime": "2024-03-15T12:30:00",
+      "arrivalTime": "2024-03-15T14:15:00",
+      "price": 4000,
+      "availableSeats": 130,
+      "aircraft": "Boeing 737"
+    },
+    "passenger": {
+      "firstName": "Prakash raju ",
+      "lastName": "jj",
+      "email": "prakashraju47351@gmail.com",
+      "phone": "+91 8885336268",
+      "dateOfBirth": "2025-07-08",
+      "nationality": "indian",
+      "passportNumber": "23456789"
+    },
+    "bookingDate": "2025-07-09T20:35:43.347Z",
+    "status": "confirmed",
+    "totalAmount": 4000,
+    "seatNumber": "6A"
+  }
+]
